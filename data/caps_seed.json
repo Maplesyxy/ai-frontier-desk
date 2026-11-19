@@ -1,0 +1,242 @@
+{
+"000660.KS": {
+"change_pct": 3.05,
+"currency": "KRW",
+"last": 1183000.0,
+"market_cap_usd_b": 625.6
+},
+"005930.KS": {
+"change_pct": 1.7,
+"currency": "KRW",
+"last": 196900.0,
+"market_cap_usd_b": 961.6
+},
+"9984.T": {
+"change_pct": 3.91,
+"currency": "JPY",
+"last": 3537.0,
+"market_cap_usd_b": 126.2
+},
+"AAPL": {
+"change_pct": -1.45,
+"currency": "USD",
+"last": 348.7099914550781,
+"market_cap_usd_b": 5067.5
+},
+"ADBE": {
+"change_pct": -2.11,
+"currency": "USD",
+"last": 222.33999633789062,
+"market_cap_usd_b": 86.5
+},
+"AI": {
+"change_pct": 0.17,
+"currency": "USD",
+"last": 10.109999656677246,
+"market_cap_usd_b": 1.6
+},
+"AMD": {
+"change_pct": -9.94,
+"currency": "USD",
+"last": 480.19000244140625,
+"market_cap_usd_b": 794.7
+},
+"AMZN": {
+"change_pct": -3.96,
+"currency": "USD",
+"last": 259.0799865722656,
+"market_cap_usd_b": 2801.5
+},
+"ASML": {
+"change_pct": -1.82,
+"currency": "USD",
+"last": 1377.6600341796875,
+"market_cap_usd_b": 531.0
+},
+"AUR": {
+"change_pct": -0.64,
+"currency": "USD",
+"last": 3.884999990463257,
+"market_cap_usd_b": 7.8
+},
+"AVGO": {
+"change_pct": -2.72,
+"currency": "USD",
+"last": 347.5150146484375,
+"market_cap_usd_b": 1658.9
+},
+"BABA": {
+"change_pct": -0.18,
+"currency": "USD",
+"last": 84.80000305175781,
+"market_cap_usd_b": 211.0
+},
+"BIDU": {
+"change_pct": -3.52,
+"currency": "USD",
+"last": 67.0999984741211,
+"market_cap_usd_b": 22.9
+},
+"CRM": {
+"change_pct": -2.9,
+"currency": "USD",
+"last": 184.97000122070312,
+"market_cap_usd_b": 152.2
+},
+"CRWV": {
+"change_pct": -5.44,
+"currency": "USD",
+"last": 45.5,
+"market_cap_usd_b": 25.3
+},
+"GEHC": {
+"change_pct": -2.32,
+"currency": "USD",
+"last": 81.72000122070312,
+"market_cap_usd_b": 36.9
+},
+"GOOGL": {
+"change_pct": -2.49,
+"currency": "USD",
+"last": 278.2850036621094,
+"market_cap_usd_b": 3421.2
+},
+"INTC": {
+"change_pct": 1.27,
+"currency": "USD",
+"last": 56.154998779296875,
+"market_cap_usd_b": 298.5
+},
+"KDK": {
+"change_pct": -5.14,
+"currency": "USD",
+"last": 1.0149999856948853,
+"market_cap_usd_b": 0.2
+},
+"MBLY": {
+"change_pct": -2.78,
+"currency": "USD",
+"last": 5.045499801635742,
+"market_cap_usd_b": 4.3
+},
+"META": {
+"change_pct": -3.25,
+"currency": "USD",
+"last": 599.1799926757812,
+"market_cap_usd_b": 1531.6
+},
+"MRVL": {
+"change_pct": -3.28,
+"currency": "USD",
+"last": 141.84500122070312,
+"market_cap_usd_b": 127.6
+},
+"MSFT": {
+"change_pct": -1.67,
+"currency": "USD",
+"last": 502.489990234375,
+"market_cap_usd_b": 3731.6
+},
+"MU": {
+"change_pct": -1.89,
+"currency": "USD",
+"last": 698.5601196289062,
+"market_cap_usd_b": 790.4
+},
+"NBIS": {
+"change_pct": -8.41,
+"currency": "USD",
+"last": 98.84510040283203,
+"market_cap_usd_b": 29.0
+},
+"NOW": {
+"change_pct": -2.39,
+"currency": "USD",
+"last": 88.80000305175781,
+"market_cap_usd_b": 92.2
+},
+"NVDA": {
+"change_pct": -2.41,
+"currency": "USD",
+"last": 148.19000244140625,
+"market_cap_usd_b": 3578.3
+},
+"ORCL": {
+"change_pct": -2.83,
+"currency": "USD",
+"last": 111.44999694824219,
+"market_cap_usd_b": 347.5
+},
+"PATH": {
+"change_pct": -3.23,
+"currency": "USD",
+"last": 11.390000343322754,
+"market_cap_usd_b": 5.9
+},
+"PLTR": {
+"change_pct": -2.46,
+"currency": "USD",
+"last": 154.7899932861328,
+"market_cap_usd_b": 373.0
+},
+"PONY": {
+"change_pct": -8.27,
+"currency": "USD",
+"last": 3.494999885559082,
+"market_cap_usd_b": 1.5
+},
+"QCOM": {
+"change_pct": -0.04,
+"currency": "USD",
+"last": 162.19000244140625,
+"market_cap_usd_b": 173.5
+},
+"RXRX": {
+"change_pct": -3.51,
+"currency": "USD",
+"last": 2.7309000492095947,
+"market_cap_usd_b": 1.7
+},
+"SAP": {
+"change_pct": -3.36,
+"currency": "USD",
+"last": 204.38999938964844,
+"market_cap_usd_b": 235.9
+},
+"SHL.DE": {
+"change_pct": -0.18,
+"currency": "EUR",
+"last": 43.81999969482422,
+"market_cap_usd_b": 53.8
+},
+"SNOW": {
+"change_pct": -2.08,
+"currency": "USD",
+"last": 276.0400085449219,
+"market_cap_usd_b": 97.4
+},
+"TEM": {
+"change_pct": -6.55,
+"currency": "USD",
+"last": 59.900001525878906,
+"market_cap_usd_b": 10.9
+},
+"TSLA": {
+"change_pct": -2.19,
+"currency": "USD",
+"last": 376.4800109863281,
+"market_cap_usd_b": 1488.1
+},
+"TSM": {
+"change_pct": -2.84,
+"currency": "USD",
+"last": 355.31500244140625,
+"market_cap_usd_b": 1842.8
+},
+"WRD": {
+"change_pct": -12.28,
+"currency": "USD",
+"last": 3.234999895095825,
+"market_cap_usd_b": 1.1
+}
+}

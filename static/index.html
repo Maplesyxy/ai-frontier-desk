@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Frontier Desk</title>
+  <link rel="stylesheet" href="static/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">AI Frontier <span>Desk</span></div>
+      <nav class="tabs" id="tabs"></nav>
+      <div class="tools">
+        <input id="search" placeholder="Search news, companies…" autocomplete="off">
+        <button id="refresh-btn" class="btn" title="Re-crawl all feeds now">Refresh</button>
+        <button id="theme-btn" class="btn" title="Toggle theme">◐</button>
+      </div>
+    </div>
+    <div class="tape"><div class="tape-track" id="tape"></div></div>
+  </header>
+
+  <main class="page" id="page">
+    <section class="main" id="main"></section>
+    <aside class="side" id="side"></aside>
+  </main>
+
+  <div id="drawer-backdrop" class="drawer-backdrop hidden"></div>
+  <aside id="drawer" class="drawer hidden"></aside>
+  <div id="tooltip" class="tooltip hidden"></div>
+  <div id="overlay" class="overlay hidden"></div>
+
+  <footer class="foot">
+    <span id="status-line">loading…</span>
+    <span class="muted" id="disclaimer"></span>
+  </footer>
+  <script src="static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+cache.json
+cache.tmp
+server.log
+site/
+.DS_Store
